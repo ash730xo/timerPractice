@@ -1,0 +1,13 @@
+h1 {
+    font-size: 25px;
+    color: green
+}
+
+#startButton {
+    background-color: lightgreen;
+}
+
+#stopButton {
+    background-color: lightcoral;
+}
+
